@@ -1,0 +1,31 @@
+.hero-text {
+  font-size: 26px;
+}
+
+.btn {
+  padding: 25px;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+#contact .fab {
+  padding: 10px;
+  font-size: 26px;
+}
+
+#contact h3 {
+  font-size: 28px;
+}
+
+#contact p {
+  font-size: 20px;
+}
+
+#comment .text-comment {
+  font-size: 18px;
+}
+/*# sourceMappingURL=small.css.map */
